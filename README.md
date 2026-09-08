@@ -6,6 +6,7 @@ Paste a job posting. This repo stores Brendan Ngwa Nforbi's identity facts and r
 python3 generate_resume.py jobs.staples_print_specialist
 python3 generate_resume.py jobs.hertz_cssa
 python3 generate_resume.py jobs.dicks_lp
+python3 generate_resume.py jobs.walmart_ogp
 ```
 
 - `candidate.py` — name, contact, education, languages. These stay stable.
