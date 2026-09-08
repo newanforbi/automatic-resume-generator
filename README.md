@@ -9,6 +9,7 @@ python3 generate_resume.py jobs.dicks_lp
 python3 generate_resume.py jobs.walmart_ogp
 python3 generate_resume.py jobs.wholefoods_cashier
 python3 generate_resume.py jobs.dicks_sales
+python3 generate_resume.py jobs.safeway_clerk
 ```
 
 - `candidate.py` — name, contact, education, languages. These stay stable.
