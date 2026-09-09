@@ -39,7 +39,8 @@ def pdf_text(text: str) -> str:
 
 def wrap_text(text: str, font: str, size: float, max_width: float) -> list[str]:
     # Split on regular spaces only so non-breaking spaces keep phrases together.
-    words = text.split(" ")
+    # Measure with pdf_text() so WinAnsi glyph substitutions match drawn widths.
+    words = pdf_text(text).split(" ")
     lines: list[str] = []
     current = ""
     for word in words:
@@ -148,18 +149,32 @@ class ResumeCanvas:
         for i, job in enumerate(jobs):
             if i:
                 self.y -= 3
-            title = job["title"]
-            rest = f"  |  {job['company']}"
-            self.c.setFillColor(GRAY)
-            self.c.setFont("Helvetica-Bold", BODY_SIZE)
-            self.c.drawString(LEFT, self.y, pdf_text(title))
-            title_w = stringWidth(title, "Helvetica-Bold", BODY_SIZE)
-            self.c.setFont("Helvetica", BODY_SIZE)
-            self.c.drawString(LEFT + title_w, self.y, pdf_text(rest))
+            title = pdf_text(job["title"])
+            company = pdf_text(job["company"])
             dates = pdf_text(job["dates"])
             date_w = stringWidth(dates, "Helvetica", BODY_SIZE)
+            # Line 1: bold title on the left, dates right-aligned. Wrap the
+            # title if it would run into the dates (long titles previously
+            # overlapped the dates on the same line as the company).
+            title_max = WIDTH - date_w - 12
+            title_lines = wrap_text(title, "Helvetica-Bold", BODY_SIZE, title_max)
+            self.c.setFillColor(GRAY)
+            self.c.setFont("Helvetica-Bold", BODY_SIZE)
+            self.c.drawString(LEFT, self.y, title_lines[0])
+            self.c.setFont("Helvetica", BODY_SIZE)
             self.c.drawString(LEFT + WIDTH - date_w, self.y, dates)
-            self.y -= 13
+            self.y -= 12
+            for extra in title_lines[1:]:
+                self.c.setFont("Helvetica-Bold", BODY_SIZE)
+                self.c.drawString(LEFT, self.y, extra)
+                self.y -= 12
+            # Line 2: company on its own line so it can never collide
+            # with the dates.
+            self.c.setFont("Helvetica", BODY_SIZE)
+            for line in wrap_text(company, "Helvetica", BODY_SIZE, WIDTH):
+                self.c.drawString(LEFT, self.y, line)
+                self.y -= 12
+            self.y -= 1
             for bullet in job["bullets"]:
                 lines = wrap_text(bullet, "Helvetica", BODY_SIZE, bullet_width - 10)
                 self.c.setFont("Helvetica", BODY_SIZE)
