@@ -21,7 +21,7 @@ RESUME = {
         "for freshness, and trims, waters, and merchandises for quality. Answers customer questions "
         "in a friendly, helpful way with a positive team attitude. Follows safety, OSHA, and Weights "
         "and Measures standards including ladders, pallet jacks, compactors, and cooler work. "
-        "Bilingual in English and Spanish with a flexible schedule including nights, weekends, and "
+        "Fluent in English with a flexible schedule including nights, weekends, and "
         "holidays. Able to stand, walk, bend, and climb all day, lift and stack up to 50 lbs, and walk "
         "up to 5 miles per shift."
     ),
@@ -36,7 +36,7 @@ RESUME = {
         "Safety, OSHA & Weights and Measures",
         "Repetitive Tasks & Multitasking",
         "Flexible Nights, Weekends & Holidays",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

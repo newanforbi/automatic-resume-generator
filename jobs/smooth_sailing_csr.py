@@ -21,7 +21,7 @@ RESUME = {
         "guest, shares clear program information, answers questions, and helps with sign-ups and "
         "contributions following set guidelines. Upbeat on my feet for full day shifts indoors and "
         "outdoors, tracks outreach numbers, and keeps set-up, breakdown, and site standards sharp. "
-        "Bilingual in English and Spanish with reliable transportation and a valid California Class C "
+        "Fluent in English with reliable transportation and a valid California Class C "
         "license. Available for full-time day shift, in person."
     ),
     "competencies": [
@@ -35,7 +35,7 @@ RESUME = {
         "Day-Shift Reliability",
         "Valid CA Class C License",
         "Outdoor & Indoor Event Stamina",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {
@@ -46,7 +46,7 @@ RESUME = {
                 "Engage community members at busy in-person sites, creating a welcoming experience and connecting supporters to programs and giving options",
                 "Share simple, accurate mission information and answer questions on services, sign-ups, and contributions following clear guidelines",
                 "Track daily outreach counts and communicate updates to the team lead while holding set-up, breakdown, and site professionalism standards",
-                "Stay upbeat on my feet across full day shifts indoors and outdoors in English and Spanish",
+                "Stay upbeat on my feet across full day shifts indoors and outdoors in English",
             ],
         },
         {

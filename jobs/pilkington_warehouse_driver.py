@@ -23,7 +23,7 @@ RESUME = {
         "basic hand tools with strong safety compliance. Delivers to customers with friendly client "
         "interaction, reads maps and GPS routes, and completes will-call paperwork. Holds a valid "
         "California Class C license with a current DOT medical and good driving record. Proficient in "
-        "English, bilingual in Spanish, with excellent attendance. Able to lift 35-45 lbs frequently "
+        "English, with excellent attendance. Able to lift 35-45 lbs frequently "
         "and up to 70-100 lbs on occasion and work in outdoor-like temperatures. Available Mon-Fri "
         "8:30am-5pm days."
     ),
@@ -38,7 +38,7 @@ RESUME = {
         "Customer Relations & Proof of Pick-Up",
         "Safety Compliance & Inspections",
         "Valid CA Class C + DOT Medical",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

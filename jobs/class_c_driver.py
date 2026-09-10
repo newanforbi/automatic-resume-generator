@@ -19,7 +19,7 @@ RESUME = {
         "including OTR long-haul, regional short-haul, yard operations, and dedicated local "
         "heavy-touch delivery. Held a California Class A CDL from January 2022 through March 2026; "
         "currently operate under a California Class C license with a current DOT medical "
-        "examiner's certificate. Bilingual in English and Spanish with an on-time delivery record, "
+        "examiner's certificate. Fluent in English with an on-time delivery record, "
         "clean DOT inspections, and zero damage claims. Available for immediate start including "
         "days, nights, weekends, and split shifts."
     ),
@@ -34,7 +34,7 @@ RESUME = {
         "BOL Handling & DOT Paperwork",
         "Dock & Yard Operations",
         "Customer-Facing Delivery",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

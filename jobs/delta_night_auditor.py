@@ -22,7 +22,7 @@ RESUME = {
         "and calm handling of guest requests. Performs the nightly audit in Lightspeed with balanced "
         "cash, credit, and folio work, rate checks, and end-of-day reports for accounting. Coordinates "
         "with housekeeping, maintenance, and restaurant teams for a seamless stay and upsells services "
-        "with genuine hospitality. Bilingual in English and Spanish. Available nights, weekends, and "
+        "with genuine hospitality. Fluent in English. Available nights, weekends, and "
         "holidays. Able to stand and move across the full shift and lift 55 lbs."
     ),
     "competencies": [
@@ -36,7 +36,7 @@ RESUME = {
         "Housekeeping & Maintenance Coordination",
         "Safety, Security & Confidentiality",
         "Microsoft Office & Data Entry",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

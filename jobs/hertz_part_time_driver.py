@@ -21,7 +21,7 @@ RESUME = {
         "outstanding customer service with a courteous, professional appearance. Follows all safety "
         "policies to protect company assets and works with minimal supervision at a fast pace. Holds "
         "a valid California Class C license with a clean record and current DOT medical, is over 21, "
-        "and is bilingual in English and Spanish with flexibility for weekends and holidays."
+        "and is fluent in English with flexibility for weekends and holidays."
     ),
     "competencies": [
         "Airport & Service-Area Driving",
@@ -34,7 +34,7 @@ RESUME = {
         "Vehicle Inspection & Fuel Checks",
         "Paperwork & Key Control",
         "Weekends & Holidays Flexibility",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

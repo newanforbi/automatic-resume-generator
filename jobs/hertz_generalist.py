@@ -23,7 +23,7 @@ RESUME = {
         "vehicles, keeps lots and records organized, and drives safely on local routes "
         "and shuttles. Coaches new team members and welcomes a manager-trainee growth path. Holds a "
         "valid California Class C license with a clean record and current DOT medical, is over 21, "
-        "and is bilingual in English and Spanish with flexible availability."
+        "and is fluent in English with flexible availability."
     ),
     "competencies": [
         "Counter & Phone Customer Service",
@@ -36,7 +36,7 @@ RESUME = {
         "Cash, Credit & Till Balancing",
         "Coaching & Trainee Leadership",
         "Valid CA Class C, Clean Record",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

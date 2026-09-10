@@ -21,8 +21,8 @@ RESUME = {
         "questions to uncover needs, positions product insights as complete top-down solutions, "
         "and closes with clear communication. Thrives in commission environments, grows the base "
         "with outbound calls and texts, and represents the brand at community and off-site events. "
-        "Keeps merchandising and inventory sharp and trains through ongoing learning. Bilingual in "
-        "English and Spanish. Available evenings, weekends, and holidays with openness to extra "
+        "Keeps merchandising and inventory sharp and trains through ongoing learning. Fluent in "
+        "English. Available evenings, weekends, and holidays with openness to extra "
         "peak shifts."
     ),
     "competencies": [
@@ -36,7 +36,7 @@ RESUME = {
         "Cash Handling & POS",
         "Team Training & Coaching",
         "Evenings, Weekends & Holidays",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

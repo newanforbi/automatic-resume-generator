@@ -22,7 +22,7 @@ RESUME = {
         "50 lbs up and down stairs with an on-time, clean-driving record. Shows up on time, works "
         "hard, and welcomes overtime, 5th and 6th day opportunities, and 9:35am to 7:15pm coverage "
         "4 to 6 days a week. Holds a valid California Class C license with a clean history, is over "
-        "21, and can pass a pre-employment drug screen. Bilingual in English and Spanish."
+        "21, and can pass a pre-employment drug screen. Fluent in English."
     ),
     "competencies": [
         "Step Van, Sprinter & Transit Operation",
@@ -35,7 +35,7 @@ RESUME = {
         "Overtime & 5th/6th Day Availability",
         "Customer Delivery Contact",
         "Paid Training Ready",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

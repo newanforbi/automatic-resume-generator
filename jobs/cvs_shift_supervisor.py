@@ -22,7 +22,7 @@ RESUME = {
         "help, thanks, handles questions, problems, and complaints per policy, and protects "
         "customer and patient confidentiality. Executes pricing, stocking, weekly and seasonal "
         "displays, off-shelf maintenance, and POG resets. English (Reading: Fluent, Speaking: "
-        "Fluent, Writing: Fluent); Spanish (Reading: Fluent, Speaking: Fluent, Writing: Fluent) "
+        "Fluent, Writing: Fluent) "
         "with strong computer and analytical skills. Available for flexible early morning, overnight, "
         "weekend, overtime, and urgent-call coverage. Education: James Lick High School, San Jose, CA."
     ),
@@ -37,7 +37,7 @@ RESUME = {
         "Off-Shelf Maintenance",
         "Computer & Analytical Skills",
         "Flexible Early, Overnight & Weekends",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {

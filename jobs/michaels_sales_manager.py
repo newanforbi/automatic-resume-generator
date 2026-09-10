@@ -24,7 +24,7 @@ RESUME = {
         "day-to-day execution. Skilled with POS and self-checkout, BOPIS and same-day "
         "fulfillment, loyalty enrollment, protection-plan selling, fabric cut-bar service, and "
         "custom framing consultations. Trains, coaches, and onboards team members while holding "
-        "asset protection and safety standards. Bilingual in English and Spanish. Available "
+        "asset protection and safety standards. Fluent in English. Available "
         "nights, weekends, and early mornings. Able to stand and move throughout the store and "
         "lift 25-50 lbs."
     ),
@@ -39,7 +39,7 @@ RESUME = {
         "SOP Compliance & Asset Protection",
         "Stocking, Facing & Recovery",
         "MOD Floor Leadership",
-        "Bilingual: English & Spanish",
+        "Fluent English Communication",
     ],
     "experience": [
         {
