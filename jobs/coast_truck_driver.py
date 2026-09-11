@@ -40,17 +40,6 @@ RESUME = {
     ],
     "experience": [
         {
-            "title": "Food Delivery Driver",
-            "company": "Keurig Dr Pepper, Modesto, CA",
-            "dates": f"Aug 2022 {EN} Aug 2023",
-            "bullets": [
-                "Ran direct-store-delivery food and beverage routes to grocery and restaurant accounts",
-                "Hand-unloaded cases and pallets with pallet jack and hand truck and obtained signatures",
-                "Back-stocked and rotated product on-site with accurate counts and invoices",
-                "Held DOT compliance and on-time record across Bay Area and Valley routes",
-            ],
-        },
-        {
             "title": "Route Delivery Driver",
             "company": "US Foods, Oakland, CA",
             "dates": f"Sep 2023 {EN} Present",
@@ -59,6 +48,17 @@ RESUME = {
                 "Load and unload food product safely and keep trucks and work areas clean",
                 "Give professional, friendly customer service with clear English communication",
                 "Cover Bay Area runs plus Sacramento and Watsonville legs with no overnight travel",
+            ],
+        },
+        {
+            "title": "Food Delivery Driver",
+            "company": "Keurig Dr Pepper, Modesto, CA",
+            "dates": f"Aug 2022 {EN} Aug 2023",
+            "bullets": [
+                "Ran direct-store-delivery food and beverage routes to grocery and restaurant accounts",
+                "Hand-unloaded cases and pallets with pallet jack and hand truck and obtained signatures",
+                "Back-stocked and rotated product on-site with accurate counts and invoices",
+                "Held DOT compliance and on-time record across Bay Area and Valley routes",
             ],
         },
         {
