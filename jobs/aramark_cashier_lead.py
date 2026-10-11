@@ -15,7 +15,7 @@ RESUME = {
     "filename": "Brendan_Nforbi_Aramark_Cashier_Lead_Resume.pdf",
     "summary": (
         "Guest-focused Cashier Lead targeting Aramark in San Jose. 5+ years running registers, "
-        "cash and credit, and the front of house at look-up-able Bay Area locations: Costco "
+        "cash and credit, and the front of house across the Bay Area: Costco "
         "Wholesale on Coleman Ave in Santa Clara, Starbucks on Fourth Street in San Rafael, "
         "and IKEA in East Palo Alto. Trains cashiers, delegates tasks, balances drawers, "
         "verifies bag deposits, and stocks the outlet to par. Works independently, follows "
