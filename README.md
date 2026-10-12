@@ -11,6 +11,7 @@ python3 generate_resume.py jobs.wholefoods_cashier
 python3 generate_resume.py jobs.dicks_sales
 python3 generate_resume.py jobs.safeway_clerk
 python3 generate_resume.py jobs.aramark_cashier_lead
+python3 generate_resume.py jobs.lowes_cashier
 ```
 
 - `candidate.py` — name, contact, education, languages. These stay stable.
