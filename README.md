@@ -13,6 +13,7 @@ python3 generate_resume.py jobs.safeway_clerk
 python3 generate_resume.py jobs.aramark_cashier_lead
 python3 generate_resume.py jobs.lowes_cashier
 python3 generate_resume.py jobs.supermicro_csc
+python3 generate_resume.py jobs.penske_csc
 ```
 
 - `candidate.py` — name, contact, education, languages. These stay stable.
