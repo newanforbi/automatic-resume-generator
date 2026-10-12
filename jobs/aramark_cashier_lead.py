@@ -20,8 +20,8 @@ RESUME = {
         "and IKEA in East Palo Alto. Trains cashiers, delegates tasks, balances drawers, "
         "verifies bag deposits, and stocks the outlet to par. Works independently, follows "
         "open/close and cash-handling SOPs, and keeps the station clean and guest-ready. "
-        "Food Handler certified; ready to complete alcohol-service training. Bilingual English "
-        "and Spanish. Lives in Milpitas."
+        "Food Handler certified; ready to complete alcohol-service training. Communicates "
+        "clearly in English. Lives in Milpitas."
     ),
     "competencies": [
         "POS / Register Accuracy",
@@ -34,7 +34,7 @@ RESUME = {
         "Inventory & Restocking",
         "Sanitation & Station Cleanup",
         "Independent Shift Ownership",
-        "Bilingual: English & Spanish",
+        "Clear Verbal & Written English",
     ],
     "experience": [
         {
@@ -46,7 +46,7 @@ RESUME = {
                 "Train new cashiers on POS, cash/credit handling, membership tender, and Costco cash-handling policy; make change for cashiers and verify bag deposits at close",
                 "Count, organize, and balance drawers; complete cashier slips and deposits with limited supervision and clean over/shorts",
                 "Follow opening and closing procedures; restock front-end inventory (bags, sundries, impulse) and keep the area clean and shoppable through standing, lifting, and recovery",
-                "Anticipate member needs, resolve tender issues on the spot, and communicate clearly in English and Spanish",
+                "Anticipate member needs, resolve tender issues on the spot, and communicate clearly in English",
             ],
         },
         {

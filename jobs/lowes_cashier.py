@@ -21,7 +21,7 @@ RESUME = {
         "payments and exchanges, self-checkout help, and a clean, safe workstation. "
         "Uses a computer POS to input, access, and output transaction data. Stands for "
         "the shift, lifts 10-15+ lbs, and jumps in to stock, move carts, and help other "
-        "departments. Bilingual English/Spanish. Lives in Milpitas; reliable commute to "
+        "departments. Communicates clearly in English. Lives in Milpitas; reliable commute to "
         "Union City. Available part-time evenings and weekends."
     ),
     "competencies": [
@@ -35,7 +35,7 @@ RESUME = {
         "Stocking, Carts & Other Duties",
         "Stand for Prolonged Periods",
         "Lift 10-15+ lbs",
-        "Bilingual: English & Spanish",
+        "Clear English Communication",
     ],
     "experience": [
         {

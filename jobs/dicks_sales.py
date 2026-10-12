@@ -19,8 +19,8 @@ RESUME = {
         "activity, and lifestyle. Greets every athlete, identifies needs, and uses product knowledge "
         "to recommend features and benefits so they leave confident in the purchase. Drives sales "
         "through basket-building and company programs (loyalty, protection plans, credit). "
-        "Coachable, accountable, and team-first on merchandising and store goals. Bilingual in "
-        "English and Spanish. High school diploma."
+        "Coachable, accountable, and team-first on merchandising and store goals. "
+        "Communicates clearly in English. High school diploma."
     ),
     "competencies": [
         "Athlete Experience & Greeting",
@@ -32,7 +32,7 @@ RESUME = {
         "Team-First Collaboration",
         "Inclusive, Athletes of All Abilities",
         "Accountability & Trust",
-        "Bilingual: English & Spanish",
+        "Clear Product Communication",
     ],
     "experience": [
         {
@@ -44,7 +44,7 @@ RESUME = {
                 "Educate on features and benefits (fit, terrain, weather, skill level) and build the basket with complementary items, protection plans, and loyalty sign-ups",
                 "Uphold merchandising and presentation standards: size, face, and recover the floor so product is easy to shop",
                 "Work a team-first floor, covering neighboring departments and sharing product knowledge so store sales and ops goals are hit",
-                "Represent the brand with energy and professionalism; serve athletes of all abilities in English and Spanish",
+                "Represent the brand with energy and professionalism; serve athletes of all abilities",
             ],
         },
         {

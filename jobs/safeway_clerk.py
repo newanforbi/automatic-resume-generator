@@ -19,7 +19,7 @@ RESUME = {
         "what they need. Replenishes shelves, works produce and freight, and stays the face of "
         "the store: greeting customers, answering questions, and helping fellow associates. Takes "
         "pride in small tasks done right and is eager to learn and grow. Flexible schedule. "
-        "Bilingual in English and Spanish. Lives in Milpitas."
+        "Communicates clearly in English. Lives in Milpitas."
     ),
     "competencies": [
         "Shelf Replenishment & Facing",
@@ -31,7 +31,7 @@ RESUME = {
         "Pride in the Details",
         "Flexible Scheduling",
         "Community-Minded Service",
-        "Bilingual: English & Spanish",
+        "Clear Customer Communication",
     ],
     "experience": [
         {
@@ -52,7 +52,7 @@ RESUME = {
             "dates": f"Jun 2021 {EN} Mar 2023",
             "bullets": [
                 "Stocked grocery, produce, and specialty aisles in a high-volume neighborhood market; kept displays full, faced, and easy to shop",
-                "Helped customers find ingredients and answered questions with patience; served a diverse Milpitas community in English and Spanish",
+                "Helped customers find ingredients and answered questions with patience; served a diverse Milpitas community",
                 "Worked inbound freight and cooler backstock; maintained a clean, safe floor for families shopping after work and on weekends",
                 "Supported produce and bulk sets so food looked fresh and inviting; jumped in wherever the team needed an extra pair of hands",
             ],

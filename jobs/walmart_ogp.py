@@ -20,7 +20,7 @@ RESUME = {
         "eye for quality (the right apple, the right cereal), checks accuracy before pickup, and "
         "makes substitutions only after consulting the customer. Greets with a smile, helps in-store "
         "shoppers while filling digital orders, and keeps the pick area stocked, clean, and safe. "
-        "Comfortable with evenings, weekends, and holiday rushes. Bilingual in English and Spanish."
+        "Comfortable with evenings, weekends, and holiday rushes. Communicates clearly in English."
     ),
     "competencies": [
         "Online Order Filling & Dispensing",
@@ -33,7 +33,7 @@ RESUME = {
         "Handheld / App Order Systems",
         "Stock, Clean & Safe Work Area",
         "Team Support",
-        "Bilingual: English & Spanish",
+        "Clear Customer Communication",
     ],
     "experience": [
         {

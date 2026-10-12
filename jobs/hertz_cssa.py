@@ -19,7 +19,7 @@ RESUME = {
         "vehicle options, offering add-on products, and overcoming objections to hit sales goals. "
         "Prepares rental and return documents accurately, qualifies customers to company guidelines, "
         "and multi-tasks across computer systems while serving people in person and on the phone. "
-        "Owns issues until they are resolved. Bilingual in English and Spanish. Available for flexible "
+        "Owns issues until they are resolved. Communicates clearly in English. Available for flexible "
         "shifts including weekends, holidays, and overtime. Comfortable standing for long periods and "
         "working the lot in all weather."
     ),
@@ -34,7 +34,7 @@ RESUME = {
         "Issue Ownership & Resolution",
         "Team Collaboration",
         "Flexible Shifts (Weekends/Holidays)",
-        "Bilingual: English & Spanish",
+        "Clear Verbal & Written English",
     ],
     "experience": [
         {
@@ -69,7 +69,7 @@ RESUME = {
                 "Consulted walk-in customers on vehicle options and add-on products; used clear, professional language to explain charges and overcome objections",
                 "Completed sales paperwork accurately in store systems while juggling several customers and phone follow-ups in a fast, varied retail floor",
                 "Self-motivated to meet and exceed monthly sales and customer-satisfaction goals; went the extra mile to own issues through resolution",
-                "Worked flexible retail shifts including weekends and holidays; communicated in English and Spanish with a diverse Bay Area customer base",
+                "Worked flexible retail shifts including weekends and holidays; communicated clearly in English with a diverse Bay Area customer base",
             ],
         },
     ],

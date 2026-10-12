@@ -10,5 +10,6 @@ PROFILE = {
         "credential": "High School Diploma",
         "school": "James Lick High School, San Jose, CA",
     },
-    "languages": "Bilingual: English & Spanish",
+    # Locked: English only. Do not add Spanish or bilingual claims.
+    "languages": "English",
 }

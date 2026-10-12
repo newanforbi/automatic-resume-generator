@@ -19,7 +19,7 @@ RESUME = {
         "loss prevention strategies and SOPs while staying athlete-first: engages shoppers, recommends "
         "product, and drives loyalty, warranty, and credit-card enrollment. Trains teammates on best "
         "practices and operational processes. Accountable, collaborative, and trustworthy, with a "
-        "high school diploma and bilingual English/Spanish. Creates a safe, respectful store for "
+        "high school diploma. Creates a safe, respectful store for "
         "teammates and athletes."
     ),
     "competencies": [
@@ -33,7 +33,7 @@ RESUME = {
         "Loyalty, Warranty & Credit Programs",
         "Integrity & Accountability",
         "Team Collaboration",
-        "Bilingual: English & Spanish",
+        "Clear Guest Communication",
     ],
     "experience": [
         {

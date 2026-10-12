@@ -20,7 +20,7 @@ RESUME = {
         "print solution. Produces professionally finished work with visual inspection and defect detection. "
         "Skilled with Microsoft Word and desktop applications to open, save, and send electronic files, and "
         "comfortable helping customers at self-service copiers and PC rentals. De-escalates issues in a calm, "
-        "cooperative way. Bilingual in English and Spanish. Available immediately for flexible part-time hours, "
+        "cooperative way. Communicates clearly in English. Available immediately for flexible part-time hours, "
         "including evenings and weekends. Able to stand and walk continuously and lift 10-50 lbs."
     ),
     "competencies": [
@@ -34,7 +34,7 @@ RESUME = {
         "Conflict De-escalation",
         "Shipping Support",
         "Flexible Part-Time Scheduling",
-        "Bilingual: English & Spanish",
+        "Clear Customer Communication",
     ],
     "experience": [
         {

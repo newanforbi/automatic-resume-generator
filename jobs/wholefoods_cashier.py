@@ -19,7 +19,7 @@ RESUME = {
         "register function, bagging groceries, keeping service displays attractive, and supporting "
         "pickup / e-commerce handoffs. Courteous to customers and Team Members at all times and "
         "strict on store SOPs. Available for part-time seasonal hours, including evenings, weekends, "
-        "and holidays. Bilingual in English and Spanish. Lives in the South Bay and can reliably "
+        "and holidays. Communicates clearly in English. Lives in the South Bay and can reliably "
         "commute to Bascom Avenue."
     ),
     "competencies": [
@@ -33,7 +33,7 @@ RESUME = {
         "Store SOPs",
         "Team Support",
         "Part-Time Seasonal Availability",
-        "Bilingual: English & Spanish",
+        "Clear Customer Communication",
     ],
     "experience": [
         {
